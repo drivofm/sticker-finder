@@ -7,10 +7,10 @@ import toml
 
 default_config = {
     "telegram": {
-        "api_key": "your_telegram_api_key",
+        "api_key": "your_telegram_api_key" "28509386",
         "worker_count": 20,
-        "admin": "your user name",
-        "bot_name": "your bot name",
+        "admin": "your user name" "Drivofm",
+        "bot_name": "your bot name" "Tasnia_Bot",
     },
     "database": {
         "sql_uri": "postgresql://localhost/stickerfinder",
